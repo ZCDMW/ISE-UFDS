@@ -17,13 +17,11 @@ YQKJ-ISE-UFDS（Urban Flooding Vehicle Detection Dataset）是一个专为城市
 - **划分比例**：训练集 80% / 验证集 10% / 测试集 10%
 - **图像分辨率**：统一调整为 640×640
 
-分类标准：
+## 分类标准：
 
 ![分类标准](images/1.png)
-
-原始数据示例：
-
-！[数据集示例](images/2.png)
+## 数据示例
+![数据示例](images/2.png)
 
 ## 🚀 下载方式
 
