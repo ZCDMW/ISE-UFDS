@@ -25,8 +25,8 @@ YQKJ-ISE-UFDS（Urban Flooding Vehicle Detection Dataset）是一个专为城市
 
 ## 🚀 下载方式
 
-数据集可通过以下百度网盘链接下载：
-链接: https://pan.baidu.com/s/1AHcTlLLRdteEH_fFSQsLMw 提取码: YQKJ
+数据集官网地址：https://www.yuanqi-tech.com/?shujuji.html
+CSDN地址：
 ## 📌 引用
 
 如果您使用了本数据集，请引用以下论文：
